@@ -13,6 +13,6 @@
 
 <br>
 
-**GitHub Stats**
+**Public GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rossmacarthur&hide_rank=true&hide_title=true&&show_icons=true)

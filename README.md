@@ -10,9 +10,3 @@
   <img align="center" src="https://github.com/rossmacarthur/rossmacarthur/blob/master/img/typescript-logo.png" alt="TypeScript Logo" width="20" height="20">
   <img align="center" src="https://github.com/rossmacarthur/rossmacarthur/blob/master/img/k8s-logo.png" alt="Kubernetes Logo" width="20" height="20">
 - 📖 BSc(Eng) Electrical and Computer Engineering, University of Cape Town
-
-<br>
-
-**Public GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rossmacarthur&hide_rank=true&hide_title=true&&show_icons=true)

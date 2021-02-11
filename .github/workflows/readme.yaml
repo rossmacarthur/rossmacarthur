@@ -1,0 +1,28 @@
+name: readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6/12 * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUCH_GITHUB_TOKEN }}
+        with:
+          template: "templates/README.tpl"
+          writeTo: "README.md"
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUCH_GITHUB_TOKEN }}
+        with:
+          commit_message: Auto update README
+          branch: master
+          commit_author: Ross MacArthur <ross@macarthur.io>

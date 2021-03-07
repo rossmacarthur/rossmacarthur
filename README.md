@@ -10,17 +10,17 @@
   <img align="center" src="https://github.com/rossmacarthur/rossmacarthur/blob/master/img/go-logo.png" alt="Go Logo" height="13">
 - 📖 BSc(Eng) Electrical and Computer Engineering, University of Cape Town
 
-### Recently created repositories
+### 🌱 Recently created repositories
 
+- [rossmacarthur/peter](https://github.com/rossmacarthur/peter) - ANSI terminal colours and styles for anything implementing `Display`
 - [rossmacarthur/stride](https://github.com/rossmacarthur/stride) - A strided slice type
 - [rossmacarthur/vectrix](https://github.com/rossmacarthur/vectrix) - Stack-allocated, constant-size, matrix type implemented with const generics
-- [rossmacarthur/advent](https://github.com/rossmacarthur/advent) - My Advent of Code solutions
 
-### Latest releases I've contributed to 🚀
+### 🚀 Latest releases for projects I've contributed to
 
-- [casey/just](https://github.com/casey/just) ([v0.8.4](https://github.com/casey/just/releases/tag/v0.8.4), 2 days ago) - 🤖 Just a command runner
-- [http-rs/tide](https://github.com/http-rs/tide) ([v0.16.0](https://github.com/http-rs/tide/releases/tag/v0.16.0), 1 week ago) - Fast and friendly HTTP server framework for async Rust
-- [http-rs/http-types](https://github.com/http-rs/http-types) ([v2.10.0](https://github.com/http-rs/http-types/releases/tag/v2.10.0), 2 weeks ago) -  Common types for HTTP operations
-- [mozilla/grcov](https://github.com/mozilla/grcov) ([v0.7.1](https://github.com/mozilla/grcov/releases/tag/v0.7.1), 3 weeks ago) - Rust tool to collect and aggregate code coverage data for multiple source files
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.6](https://github.com/rust-lang/mdBook/releases/tag/v0.4.6), 3 weeks ago) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [rust-lang/rust](https://github.com/rust-lang/rust) ([1.49.0](https://github.com/rust-lang/rust/releases/tag/1.49.0), 1 month ago) - Empowering everyone to build reliable and efficient software.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) ([v0.4.7](https://github.com/rust-lang/mdBook/releases/tag/v0.4.7), 1 week ago) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [extractions/setup-mdbook](https://github.com/extractions/setup-mdbook) ([v1](https://github.com/extractions/setup-mdbook/releases/tag/v1), 1 week ago) - GitHub Action to install mdBook
+- [rust-lang/book](https://github.com/rust-lang/book) ([rand-0.8](https://github.com/rust-lang/book/releases/tag/rand-0.8), 1 week ago) - The Rust Programming Language
+- [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) ([0.6.1](https://github.com/rossmacarthur/sheldon/releases/tag/0.6.1), 2 weeks ago) - :bowtie: A fast, configurable, shell plugin manager
+- [rust-lang/rust](https://github.com/rust-lang/rust) ([1.50.0](https://github.com/rust-lang/rust/releases/tag/1.50.0), 2 weeks ago) - Empowering everyone to build reliable and efficient software.
+- [casey/just](https://github.com/casey/just) ([v0.8.4](https://github.com/casey/just/releases/tag/v0.8.4), 2 weeks ago) - 🤖 Just a command runner

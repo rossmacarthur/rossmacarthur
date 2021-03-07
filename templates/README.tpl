@@ -10,12 +10,12 @@
   <img align="center" src="https://github.com/rossmacarthur/rossmacarthur/blob/master/img/go-logo.png" alt="Go Logo" height="13">
 - 📖 BSc(Eng) Electrical and Computer Engineering, University of Cape Town
 
-### Recently created repositories
+### 🌱 Recently created repositories
 {{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-### Latest releases I've contributed to 🚀
+### 🚀 Latest releases for projects I've contributed to
 {{range recentReleases 6}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}

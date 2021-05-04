@@ -10,8 +10,8 @@
 
 #### 🌱 Recently created repositories
 
+- [rossmacarthur/crates.alfredworkflow](https://github.com/rossmacarthur/crates.alfredworkflow) - 📦 Alfred workflow to search Rust crates
 - [rossmacarthur/eio](https://github.com/rossmacarthur/eio) - Read and write numbers in big-endian and little-endian
-- [rossmacarthur/emojis.alfred-workflow](https://github.com/rossmacarthur/emojis.alfred-workflow) - ✨ Emojis workflow for Alfred
+- [rossmacarthur/emojis.alfredworkflow](https://github.com/rossmacarthur/emojis.alfredworkflow) - ✨ Emojis workflow for Alfred
 - [rossmacarthur/powerpack](https://github.com/rossmacarthur/powerpack) - ⚡ Supercharge your Alfred workflows by building them in Rust!
 - [rossmacarthur/kb-remap](https://github.com/rossmacarthur/kb-remap) - ⌨️ Tool to remap macOS keyboard keys
-- [rossmacarthur/emojis](https://github.com/rossmacarthur/emojis) - ✨ Lookup and iterate over emoji names, shortcodes, and groups

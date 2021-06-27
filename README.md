@@ -10,8 +10,8 @@
 
 #### 🌱 Recently created repositories
 
+- [rossmacarthur/dairy](https://github.com/rossmacarthur/dairy) - 🐮 A more compact, user friendly implementation of Cow.
 - [rossmacarthur/github.alfredworkflow](https://github.com/rossmacarthur/github.alfredworkflow) - Alfred workflow to search for GitHub repos
 - [rossmacarthur/crates.alfredworkflow](https://github.com/rossmacarthur/crates.alfredworkflow) - 📦 Alfred workflow to search Rust crates
 - [rossmacarthur/eio](https://github.com/rossmacarthur/eio) - Read and write numbers in big-endian and little-endian
 - [rossmacarthur/emojis.alfredworkflow](https://github.com/rossmacarthur/emojis.alfredworkflow) - ✨ Emojis workflow for Alfred
-- [rossmacarthur/powerpack](https://github.com/rossmacarthur/powerpack) - ⚡ Supercharge your Alfred workflows by building them in Rust!

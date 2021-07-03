@@ -10,7 +10,7 @@
 
 #### 🌱 Recently created repositories
 
-- [rossmacarthur/dairy](https://github.com/rossmacarthur/dairy) - 🐮 A more compact, user friendly implementation of Cow
+- [rossmacarthur/dairy](https://github.com/rossmacarthur/dairy) - 🐮 A more compact, user friendly clone-on-write smart pointer
 - [rossmacarthur/github.alfredworkflow](https://github.com/rossmacarthur/github.alfredworkflow) - Alfred workflow to search for GitHub repos
 - [rossmacarthur/crates.alfredworkflow](https://github.com/rossmacarthur/crates.alfredworkflow) - 📦 Alfred workflow to search Rust crates
 - [rossmacarthur/eio](https://github.com/rossmacarthur/eio) - Read and write numbers in big-endian and little-endian

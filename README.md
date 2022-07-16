@@ -32,7 +32,7 @@ stow                :closed_lock_with_key: An example Flask app to securely PUT 
 - [aq](https://github.com/rossmacarthur/aq) - Extend jq for any data format
 - [dotfiles](https://github.com/rossmacarthur/dotfiles) - :wrench: Install packages and my dotfiles on a new system
 - [install](https://github.com/rossmacarthur/install) - Install a Rust crate from a GitHub release
-- [kb-remap](https://github.com/rossmacarthur/kbremap) - ⌨️ Tool to remap macOS keyboard keys
+- [kb-remap](https://github.com/rossmacarthur/kb-remap) - ⌨️ Tool to remap macOS keyboard keys
 - [setup-crate](https://github.com/extractions/setup-crate) - 📦 GitHub Action to install a Rust binary
 - [setup-just](https://github.com/extractions/setup-just) - 🤖 GitHub Action to install the just command runner
 - [sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
@@ -52,6 +52,7 @@ stow                :closed_lock_with_key: An example Flask app to securely PUT 
 - [radiotap](https://github.com/rossmacarthur/radiotap) - A parser for the radiotap capture format
 - [regex-macro](https://github.com/rossmacarthur/regex-macro)
 - [stride](https://github.com/rossmacarthur/stride) - A strided slice type
+- [upon](https://github.com/rossmacarthur/upon) - A simple, powerful template engine
 - [vectrix](https://github.com/rossmacarthur/vectrix) - 🏹 Stack-allocated, constant-size, matrix type implemented with const generics
 
 #### ALFRED WORKFLOWS

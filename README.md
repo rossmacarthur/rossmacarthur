@@ -15,6 +15,7 @@
 #### APPS & TOOLS
 
 - [aq](https://github.com/rossmacarthur/aq) - Extend jq for any data format
+- [cargo-onedoc](https://github.com/rossmacarthur/cargo-onedoc) - 📝 Generate your README.md from Rust doc comments
 - [dotfiles](https://github.com/rossmacarthur/dotfiles) - 🔧 Install packages and my dotfiles on a new system
 - [install](https://github.com/rossmacarthur/install) - Install a Rust crate from a GitHub release
 - [kb-remap](https://github.com/rossmacarthur/kb-remap) - ⌨️ Tool to remap macOS keyboard keys
@@ -36,6 +37,11 @@
 - [regex-macro](https://github.com/rossmacarthur/regex-macro) - Only compile a regex once, abstracted
 - [upon](https://github.com/rossmacarthur/upon) - 📌 A lightweight and powerful template engine for Rust
 - [vectrix](https://github.com/rossmacarthur/vectrix) - 🏹 Stack-allocated, constant-size, matrix type implemented with const generics
+
+#### GO LIBRARIES
+
+- [cases](https://github.com/rossmacarthur/cases) - 💼 A case conversion library for Go with Unicode support
+- [fudge](https://github.com/rossmacarthur/fudge) - 🍦 Oh Fudge! A straight-forward error library for Go
 
 #### ALFRED WORKFLOWS
 

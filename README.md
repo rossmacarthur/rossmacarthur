@@ -3,7 +3,6 @@
 <br />
 
 - ✨ Python by day, Rust by night
-- 📚 Slowly reading https://craftinginterpreters.com
 - ❤️ Passionate about **Open Source** software
 - ♟️ When I'm not coding you can find me losing on https://lichess.org
 
@@ -23,11 +22,12 @@
 
 #### RUST LIBRARIES
 
+- [anycase](https://github.com/rossmacarthur/anycase) - 💼 A case conversion library for Go, Rust, and Python with Unicode support
 - [casual](https://github.com/rossmacarthur/casual) - Simple Rust crate for parsing user input
 - [complexity](https://github.com/rossmacarthur/complexity) - Calculate cognitive complexity of Rust code
 - [constcat](https://github.com/rossmacarthur/constcat) - 🐱 concat! with support for const variables and expressions
 - [emojis](https://github.com/rossmacarthur/emojis) - ✨ Lookup and iterate over emoji names, shortcodes, and groups
-- [fmutex](https://github.com/rossmacarthur/fmutex) - Provides mutual exclusion on a file using flock(2)
+- [fmutex](https://github.com/rossmacarthur/fmutex) - Cross-platform mutual exclusion across processes on a file or path
 - [goldie](https://github.com/rossmacarthur/goldie) - 🌟 Simple golden file testing for Rust
 - [itermore](https://github.com/rossmacarthur/itermore) - 🤸 More iterator adaptors
 - [pulldown-cmark-toc](https://github.com/rossmacarthur/pulldown-cmark-toc) - Generate a table of contents from a Markdown document
@@ -38,12 +38,13 @@
 
 #### PYTHON LIBRARIES
 
-- [pycases](https://github.com/rossmacarthur/pycases) - 💼 A case conversion library with Unicode support
+- [anycase](https://github.com/rossmacarthur/anycase) - 💼 A case conversion library for Go, Rust, and Python with Unicode support
 
 #### GO LIBRARIES
 
-- [cases](https://github.com/rossmacarthur/cases) - 💼 A case conversion library for Go with Unicode support
+- [anycase](https://github.com/rossmacarthur/anycase) - 💼 A case conversion library for Go, Rust, and Python with Unicode support
 - [fudge](https://github.com/rossmacarthur/fudge) - 🍦 Oh Fudge! A straight-forward error library for Go
+- [pgxtools](https://github.com/rossmacarthur/pgxtools) - Tools for working with jackc/pgx
 
 #### ALFRED WORKFLOWS
 

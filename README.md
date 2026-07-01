@@ -19,6 +19,7 @@
 - [install](https://github.com/rossmacarthur/install) - Install a Rust crate from a GitHub release
 - [kb-remap](https://github.com/rossmacarthur/kb-remap) - ⌨️ Tool to remap macOS keyboard keys
 - [sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
+- [cross-openssl](https://github.com/rossmacarthur/cross-openssl) - Multi-platform docker images for [cross]-compiling Rust projects that use OpenSSL
 
 #### RUST LIBRARIES
 
@@ -52,6 +53,7 @@
 - [crates.alfredworkflow](https://github.com/rossmacarthur/crates.alfredworkflow) - 📦 Alfred workflow to search Rust crates
 - [github.alfredworkflow](https://github.com/rossmacarthur/github.alfredworkflow) - :octocat: Alfred workflow to search GitHub repositories
 - [gitlab.alfredworkflow](https://github.com/rossmacarthur/gitlab.alfredworkflow) - 🦊 Alfred workflow to search GitLab issues and merge requests
+- [ph.alfredworkflow](https://github.com/rossmacarthur/ph.alfredworkflow) - ⚙️ Alfred workflow to search Phorge repos, diffs, tasks, and documents
 
 #### GITHUB ACTIONS
 
@@ -64,3 +66,5 @@
 - [intcode](https://github.com/rossmacarthur/intcode) - 🎁 Assembler and runner for the Intcode computer from 🎄 Advent of Code 2019
 
 </details>
+
+[cross]: https://github.com/cross-rs/cross
